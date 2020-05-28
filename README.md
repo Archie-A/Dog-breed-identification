@@ -1,5 +1,5 @@
 # Dog-breed-identification
-Identify the breed of the dog, given its image.
+Identify the breed of the dog, given its image. master
 ## Problem
 Identifyiing the breed of the dog given an image of a dog.
 
